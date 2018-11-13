@@ -64,3 +64,4 @@ from rotatePointsWithCenterAndRotationMatrix import *
 from createIntArray import *
 from createFloatArray import *
 from moveMeshBetweenImageSpaces import *
+from fast_array_algebra import *
